@@ -41,5 +41,12 @@ c1
 """
 
 show(ostinato(mary_had_a_little_lamb))
-
 ```
+
+The original lilypond file would be:
+
+![Mary had a little lamb](https://raw2.github.com/chappers/chappers.github.com/master/img/ostinato/marylamb.png)
+
+whilst the updated one would be:
+
+![Mary had a little lamb](https://raw2.github.com/chappers/chappers.github.com/master/img/ostinato/marylamb-lh.png)
