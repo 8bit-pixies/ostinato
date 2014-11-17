@@ -40,6 +40,6 @@ c1
 }
 """
 
-print format(ostinato(mary_had_a_little_lamb))
+show(ostinato(mary_had_a_little_lamb))
 
 ```
